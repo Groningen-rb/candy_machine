@@ -1,0 +1,10 @@
+# Feature: Inserting Coins
+#   In order to avoid starvation
+#   As a hungry traveller 
+#   I want to buy some food
+# 
+#   Scenario: Insert coin
+#     Given I have inserted a 1 euro coin into the candy manchine
+#     And I have inserted a 2 euro coin into the candy manchine
+#     When I take a look at the display
+#     Then the display should read '3.00'
